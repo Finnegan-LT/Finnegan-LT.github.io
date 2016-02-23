@@ -5,6 +5,7 @@ font-size:100px;
 body {
   background-image:url("https://s-media-cache-ak0.pinimg.com/236x/21/af/10/21af10ba49626369a3dc056966cd86a8.jpg");
   background-repeat:no-repeat;
+  background-size:100%100%;
 }
 .header {
   font-family:verdana;
