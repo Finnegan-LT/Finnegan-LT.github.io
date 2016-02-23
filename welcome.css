@@ -1,5 +1,6 @@
 body {
   background-image: url("https://media.giphy.com/media/13vfiD0VBeksYE/giphy.gif");
+ background-repeat:no-repeat;
   }
 
 .enter-button{
